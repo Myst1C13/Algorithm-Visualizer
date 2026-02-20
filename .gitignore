@@ -1,0 +1,5 @@
+visualizer
+visualizer.exe
+*.o
+.DS_Store
+.vscode/
